@@ -53,7 +53,6 @@
         textElement.appendChild(span3);
         textElement.appendChild(document.createTextNode("/"));
         textElement.appendChild(span4);
-        textElement.appendChild(document.createTextNode("/"));
         textElement.appendChild(span5);
         setTimeout(() => {
             fadeOut(textElement, 2000);

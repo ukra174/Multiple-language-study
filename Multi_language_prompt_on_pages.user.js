@@ -25,13 +25,36 @@
         lines = data.split("\n");
         var words = lines[Math.ceil(Math.random()*lines.length)-1].split("/");
         document.body.appendChild(textElement);
-        var spanCode = "<span style='color:rgb(255, 85, 187)'>";
-        spanCode+=words[0] + "</span>/<span style='color:rgb(230, 230, 210)'>";
-        spanCode+=words[1] + "</span>/<span style='color:rgb(252, 255, 178)'>";
-        spanCode+=words[2] + "</span>/<span style='color:rgb(182, 234, 250)'>";
-        spanCode+=words[3] + "</span><span style='color:rgb(255, 255, 255)'>";
-        spanCode+=words[4] + "</span>";
-        textElement.innerHTML = spanCode;
+        document.body.appendChild(textElement);
+        var span1 = document.createElement("span");
+        span1.style.color = "rgb(255, 85, 187)";
+        span1.appendChild(document.createTextNode(words[0]));
+
+        var span2 = document.createElement("span");
+        span2.style.color = "rgb(230, 230, 210)";
+        span2.appendChild(document.createTextNode(words[1]));
+
+        var span3 = document.createElement("span");
+        span3.style.color = "rgb(252, 255, 178)";
+        span3.appendChild(document.createTextNode(words[2]));
+
+        var span4 = document.createElement("span");
+        span4.style.color = "rgb(182, 234, 250)";
+        span4.appendChild(document.createTextNode(words[3]));
+
+        var span5 = document.createElement("span");
+        span5.style.color = "rgb(255, 255, 255)";
+        span5.appendChild(document.createTextNode(words[4]));
+
+        textElement.appendChild(span1);
+        textElement.appendChild(document.createTextNode("/"));
+        textElement.appendChild(span2);
+        textElement.appendChild(document.createTextNode("/"));
+        textElement.appendChild(span3);
+        textElement.appendChild(document.createTextNode("/"));
+        textElement.appendChild(span4);
+        textElement.appendChild(document.createTextNode("/"));
+        textElement.appendChild(span5);
         setTimeout(() => {
             fadeOut(textElement, 2000);
         }, 0);

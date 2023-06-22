@@ -1,255 +1,311 @@
-Freund / Amigo / 友達 (Tomodachi) / Przyjaciel / - Friend
-Essen / Comida / 食べ物 (Tabemono) / Jedzenie / - Food
-Kleidung / Ropa / 服 (Fuku) / Ubranie / - Clothing
-Musik / Música / 音楽 (Ongaku) / Muzyka / - Music
-Stadt / Ciudad / 街 (Machi) / Miasto / - City
-Schreiben / Escribir / 書く (Kaku) / Pisać / - To write
-Zeit / Tiempo / 時間 (Jikan) / Czas / - Time
-Hausaufgaben / Tarea / 宿題 (Shukudai) / Zadanie domowe / - Homework
-Telefon / Teléfono / 電話 (Denwa) / Telefon / - Telephone
-Reisen / Viajar / 旅行する (Ryokō suru) / Podróżować / - To travel
-Fenster / Ventana / 窓 (Mado) / Okno / - Window
-Hausarbeit / Tarea doméstica / 家事 (Kaji) / Prace domowe / - Housework
-Teller / Plato / 皿 (Sara) / Talerz / - Plate
-Gitarre / Guitarra / ギター (Gitā) / Gitara / - Guitar
-Museum / Museo / 博物館 (Hakubutsukan) / Muzeum / - Museum
-Bruder / Hermano / 兄弟 (Kyōdai) / Brat / - Brother
-Kuchen / Pastel / ケーキ (Kēki) / Ciasto / - Cake
-Stuhl / Silla / 椅子 (Isu) / Krzesło / - Chair
-Film / Película / 映画 (Eiga) / Film / - Movie
-Schwester / Hermana / 姉妹 (Shimai) / Siostra / - Sister
-Fernseher / Televisor / テレビ (Terebi) / Telewizor / - Television
-Frühstück / Desayuno / 朝食 (Chōshoku) / Śniadanie / - Breakfast
-Tür / Puerta / ドア (Doa) / Drzwi / - Door
-Buchstabe / Letra / 文字 (Moji) / Litera / - Letter (alphabet)
-Sprechen / Hablar / 話す (Hanasu) / Mówić / - To speak
-Kaffee / Café / コーヒー (Kōhī) / Kawa / - Coffee
-Tasse / Taza / カップ (Kappu) / Kubek / - Cup
-Wörterbuch / Diccionario / 辞書 (Jisho) / Słownik / - Dictionary
-Schule / Escuela / 学校 (Gakkō) / Szkoła / - School
-Brille / Gafas / 眼鏡 (Megane) / Okulary / - Glasses
-Essen / Comer / 食べる (Taberu) / Jeść / - To eat
-Flugzeug / Avión / 飛行機 (Hikōki) / Samolot / - Airplane
-Arbeiten / Trabajar / 働く (Hataraku) / Pracować / - To work
-Kino / Cine / 映画館 (Eigakan) / Kino / - Cinema
-Geschwister / Hermanos / 兄弟姉妹 (Kyōdai shimai) / Rodzeństwo / - Siblings
-Mittagessen / Almuerzo / 昼食 (Chūshoku) / Obiad / - Lunch
-Freizeit / Tiempo libre / 自由時間 (Jiyū jikan) / Czas wolny / - Free time
-Apotheke / Farmacia / 薬局 (Yakkyoku) / Apteka / - Pharmacy
-Sommer / Verano / 夏 (Natsu) / Lato / - Summer
-Geschäft / Tienda / 店 (Mise) / Sklep / - Store
-Eltern / Padres / 両親 (Ryōshin) / Rodzice / - Parents
-Abendessen / Cena / 夕食 (Yūshoku) / Kolacja / - Dinner
-Bett / Cama / ベッド (Beddo) / Łóżko / - Bed
-Spielzeug / Juguete / おもちゃ (Omocha) / Zabawka / - Toy
-Universität / Universidad / 大学 (Daigaku) / Uniwersytet / - University
-Badezimmer / Baño / トイレ (Toire) / Łazienka / - Bathroom
-Brief / Carta / 手紙 (Tegami) / List / - Letter (correspondence)
-Winter / Invierno / 冬 (Fuyu) / Zima / - Winter
-Wörter / Palabras / 言葉 (Kotoba) / Słowa / - Words
-Sport / Deporte / スポーツ (Supōtsu) / Sport / - Sport
-Bäckerei / Panadería / パン屋 (Pan'ya) / Piekarnia / - Bakery
-Ferien / Vacaciones / 休暇 (Kyūka) / Wakacje / - Vacation
-Laptop / Portátil / ノートパソコン (Nōto pasokon) / Laptop / - Laptop
-Trinken / Beber / 飲む (Nomu) / Pić / - To drink
-Krankenhaus / Hospital / 病院 (Byōin) / Szpital / - Hospital
-Herbst / Otoño / 秋 (Aki) / Jesień / - Autumn
-Onkel / Tío / おじ (Oji) / Wujek / - Uncle
-Fernsehen / Ver televisión / テレビを見る (Terebi o miru) / Oglądać telewizję / - To watch television
-Obst / Frutas / 果物 (Kudamono) / Owoce / - Fruit
-Park / Parque / 公園 (Kōen) / Park / - Park
-Cousin / Primo / いとこ (Itoko) / Kuzyn / - Cousin
-Schlafen / Dormir / 寝る (Neru) / Spać / - To sleep
-Restaurant / Restaurante / レストラン (Resutoran) / Restauracja / - Restaurant
-Lehrer / Profesor / 先生 (Sensei) / Nauczyciel / - Teacher
-Morgen / Mañana / 朝 (Asa) / Rano / - Morning
-Tablet / Tableta / タブレット (Taburetto) / Tablet / - Tablet
-Lesen / Leer / 読む (Yomu) / Czytać / - To read
-Theater / Teatro / 劇場 (Gekijō) / Teatr / - Theater
-Oma / Abuela / おばあさん (Obaasan) / Babcia / - Grandmother
-Geburtstag / Cumpleaños / 誕生日 (Tanjōbi) / Urodziny / - Birthday
-Zoo / Zoológico / 動物園 (Dōbutsuen) / Zoo / - Zoo
-Opa / Abuelo / おじいさん (Ojiisan) / Dziadek / - Grandfather
-Fahrrad / Bicicleta / 自転車 (Jitensha) / Rower / - Bicycle
-Singen / Cantar / 歌う (Utau) / Śpiewać / - To sing
-Markt / Mercado / 市場 (Ichiba) / Rynek / - Market
-Familie / Familia / 家族 (Kazoku) / Rodzina / - Family
-Gebäude / Edificio / 建物 (Tatemono) / Budynek / - Building
-Tante / Tía / おば (Oba) / Ciocia / - Aunt
-Nachmittag / Tarde / 午後 (Gogo) / Popołudnie / - Afternoon
-Schwimmen / Nadar / 泳ぐ (Oyogu) / Pływać / - To swim
-Supermarkt / Supermercado / スーパーマーケット (Sūpāmāketto) / Supermarket / - Supermarket
-Cousine / Prima / いとこ (Itoko) / Kuzynka / - Cousin (female)
-Kultur / Cultura / 文化 (Bunka) / Kultura / - Culture
-Fahrt / Viaje / 旅 (Tabi) / Podróż / - Trip
-Computer / Ordenador / コンピューター (Konpyūtā) / Komputer / - Computer
-Fußball / Fútbol / サッカー (Sakkā) / Piłka nożna / - Football
-Sprache / Idioma / 言語 (Gengo) / Język / - Language
-Bücher / Libros / 本 (Hon) / Książki / - Books
-Feiertag / Día festivo / 祝日 (Shukujitsu) / Święto / - Holiday
-Fotografieren / Fotografiar / 写真を撮る (Shashin o toru) / Fotografować / - To photograph
-Hund / Perro / 犬 (Inu) / Pies / - Dog
-Katze / Gato / 猫 (Neko) / Kot / - Cat
-Auto / Coche / 車 (Kuruma) / Samochód / - Car
-Blume / Flor / 花 (Hana) / Kwiat / - Flower
-Wasser / Agua / 水 (Mizu) / Woda / - Water
-Freundin / Amiga / 友達 (Tomodachi) / Przyjaciółka / - Friend (female)
-Haus / Casa / 家 (Ie) / Dom / - House
-Apfel / Manzana / 林檎 (Ringo) / Jabłko / - Apple
-Tisch / Mesa / テーブル (Tēburu) / Stół / - Table
-Buch / Libro / 本 (Hon) / Książka / - Book
-Stift / Bolígrafo / ペン (Pen) / Długopis / - Pen
-Freund / Amigo / 友達 (Tomodachi) / Przyjaciel / - Friend (male)
-Uhr / Reloj / 時計 (Tokei) / Zegar / - Clock
-Musikinstrument / Instrumento musical / 楽器 (Gakki) / Instrument muzyczny / - Musical instrument
-Lernen / Aprender / 学ぶ (Manabu) / Uczyć się / - To learn
-Spielen / Jugar / 遊ぶ (Asobu) / Grać / - To play
-Laufen / Correr / 走る (Hashiru) / Biegać / - To run
-Gehen / Ir / 行く (Iku) / Iść / - To go
-Sehen / Ver / 見る (Miru) / Widzieć / - To see
-Hören / Escuchar / 聞く (Kiku) / Słuchać / - To listen
-Kaufen / Comprar / 買う (Kau) / Kupować / - To buy
-Verkaufen / Vender / 売る (Uru) / Sprzedawać / - To sell
-Leben / Vivir / 生きる (Ikiru) / Żyć / - To live
-Studieren / Estudiar / 勉強する (Benkyō suru) / Studiować / - To study
-Besuchen / Visitar / 訪問する (Hōmon suru) / Odwiedzać / - To visit
-Kochen / Cocinar / 料理する (Ryōri suru) / Gotować / - To cook
-Tanzen / Bailar / 踊る (Odoru) / Tańczyć / - To dance
-Malen / Pintar / 描く (Kaku) / Malować / - To paint
-Höflich / Cortés / 礼儀正しい (Reigi tadashii) / Grzeczny / - Polite
-Schnell / Rápido / 速い (Hayai) / Szybki / - Fast
-Langsam / Lento / 遅い (Osoi) / Wolny / - Slow
-Groß / Grande / 大きい (Ōkii) / Duży / - Big
-Klein / Pequeño / 小さい (Chīsai) / Mały / - Small
-Neu / Nuevo / 新しい (Atarashii) / Nowy / - New
-Alt / Viejo / 古い (Furui) / Stary / - Old
-Gut / Bueno / 良い (Yoi) / Dobry / - Good
-Schlecht / Malo / 悪い (Warui) / Zły / - Bad
-Schön / Bonito / 綺麗な (Kirei na) / Piękny / - Beautiful
-Hässlich / Feo / 醜い (Minikui) / Brzydki / - Ugly
-Glücklich / Feliz / 幸せな (Shiawase na) / Szczęśliwy / - Happy
-Traurig / Triste / 悲しい (Kanashii) / Smutny / - Sad
-Müde / Cansado / 疲れた (Tsukareta) / Zmęczony / - Tired
-Energisch / Energético / エネルギッシュな (Enerugisshu na) / Energiczny / - Energetic
-Laut / Ruidoso / うるさい (Urusai) / Głośny / - Loud
-Leise / Silencioso / 静かな (Shizuka na) / Cichy / - Quiet
-Einfach / Fácil / 簡単な (Kantan na) / Łatwy / - Easy
-Schwer / Difícil / 難しい (Muzukashii) / Trudny / - Difficult
-Richtig / Correcto / 正しい (Tadashii) / Prawidłowy / - Correct
-Falsch / Incorrecto / 間違った (Machigatta) / Niepoprawny / - Wrong
-Interessant / Interesante / 面白い (Omoshiroi) / Interesujący / - Interesting
-Langweilig / Aburrido / つまらない (Tsumaranai) / Nudny / - Boring
-Freundlich / Amable / 優しい (Yasashii) / Przyjazny / - Friendly
-Unfreundlich / Desagradable / 不愉快な (Fuyukai na) / Nieprzyjazny / - Unfriendly
-Helfen / Ayudar / 助ける (Tasukeru) / Pomagać / - To help
-Fragen / Preguntar / 質問する (Shitsumon suru) / Pytać / - To ask
-Antworten / Responder / 答える (Kotaeru) / Odpowiadać / - To answer
-Verstehen / Comprender / 理解する (Rikai suru) / Rozumieć / - To understand
-Wissen / Saber / 知っている (Shitte iru) / Wiedzieć / - To know
-Vergessen / Olvidar / 忘れる (Wasureru) / Zapominać / - To forget
-Erinnern / Recordar / 覚えている (Oboete iru) / Przypominać / - To remember
-Anfangen / Comenzar / 始める (Hajimeru) / Zaczynać / - To start
-Beenden / Terminar / 終える (Oeru) / Kończyć / - To finish
-Verlieren / Perder / 失う (Ushinau) / Tracić / - To lose
-Gewinnen / Ganar / 勝つ (Katsu) / Wygrywać / - To win
-Öffnen / Abrir / 開ける (Akeru) / Otwierać / - To open
-Schließen / Cerrar / 閉める (Shimeru) / Zamykać / - To close
-Finden / Encontrar / 見つける (Mitsukeru) / Znajdować / - To find
-Verstecken / Esconder / 隠す (Kakusu) / Ukrywać / - To hide
-Träumen / Soñar / 夢を見る (Yume o miru) / Śnić / - To dream
-Lachen / Reír / 笑う (Warau) / Śmiać się / - To laugh
-Weinen / Llorar / 泣く (Naku) / Płakać / - To cry
-Freude / alegría / 喜び (yorokobi) / radość / - joy
-Buchstaben / letras / 文字 (moji) / litery / - letters
-Hallo / hola / こんにちは (konnichiwa) / cześć / - hello
-Rot / rojo / あか (aka) / czerwony / - red
-Blau / azul / あお (ao) / niebieski / - blue
-Gelb / amarillo / きいろ (kiiro) / żółty / - yellow
-Danke / gracias / ありがとう (arigatō) / dziękuję / - thank you
-Bitte / por favor / おねがいします (onegaishimasu) / proszę / - please
-Entschuldigung / perdón / ごめんなさい (gomen nasai) / przepraszam / - excuse me
-Ja / Sí / はい (Hai) / Tak / - Yes
-Nein / No / いいえ (Iie) / Nie / - No
-Farbe / Color / 色 (Iro) / Kolor / - Color
-Reisen / Viajar / 旅行 (Ryokō) / Podróżować / - Travel
-Glück / Felicidad / 幸せ (Shiawase) / Szczęście / - Happiness
-Erfolg / éxito / 成功 (seikō) / sukces / - success
-Bedauern / lamentar / 残念 (zannen) / żal / - regret
-Vielseitig / versátil / 多才 (tasai) / wszechstronny / - versatile
-Überwinden / superar / 克服する (kokufuku suru) / pokonać / - overcome
-Ausdauer / perseverancia / 忍耐 (nintai) / wytrzymałość / - endurance
-Bereicherung / enriquecimiento / 充実 (jūjitsu) / wzbogacenie / - enrichment
-Hingabe / devoción / 献身 (kenshin) / oddanie / - dedication
-Empathie / empatía / 共感 (kyōkan) / empatia / - empathy
-Muttersprache / lengua materna / 母国語 (bokokugo) / język ojczysty / - mother tongue
-Unverwechselbar / inconfundible / 独特な (dokutoku na) / niepowtarzalny / - unique
-Herausforderung / desafío / 挑戦 (chōsen) / wyzwanie / - challenge
-Umfangreich / extenso / 広範囲 (kōhani) / obszerny / - extensive
-Selbstvertrauen / confianza en sí mismo / 自信 (jishin) / pewność siebie / - self-confidence
-Konzentration / concentración / 集中 (shūchū) / koncentracja / - concentration
-Raffiniert / sofisticado / 精巧 (seikō) / wyrafinowany / - sophisticated
-Nachdenklich / reflexivo / 深思熟慮 (shinshi jukuryo) / refleksyjny / - thoughtful
-Aufgeschlossenheit / apertura / 開放感 (kaihō-kan) / otwartość / - open-mindedness
-Leidenschaft / pasión / 情熱 (jōnetsu) / pasja / - passion
-Empfindlichkeit / sensibilidad / 敏感さ (binkan-sa) / wrażliwość / - sensitivity
-Kreativität / creatividad / 創造性 (sōzōsei) / kreatywność / - creativity
-Widerstandsfähig / resistente / 強靭 (kyōjin) / odporny / - resilient
-Empfindsamkeit / sensibilidad / 繊細さ (sensai-sa) / delikatność / - delicacy
-Strebsamkeit / diligencia / 勤勉さ (kinben-sa) / pilność / - diligence
-Erfindungsreich / ingenioso / 創意 (sōi) / pomysłowy / - resourceful
-Begeisterung / entusiasmo / 熱意 (netsui) / entuzjazm / - enthusiasm
-Zuverlässigkeit / confiabilidad / 信頼性 (shinraisei) / niezawodność / - reliability
-Gelassenheit / tranquilidad / 冷静さ (reisei-sa) / opanowanie / - serenity
-Ehrgeizig / ambicioso / 野心的 (yashin-teki) / ambitny / - ambitious
-Beständigkeit / consistencia / 着実性 (chakujitsusei) / trwałość / - perseverance
-Eigenständig / autónomo / 独立した (dokuritsu shita) / niezależny / - independent
-Geduld / paciencia / 忍耐力 (nintai-ryoku) / cierpliwość / - patience
-Wertschätzung / aprecio / 高評価 (kōhyōka) / docenienie / - appreciation
-Erleuchtung / iluminación / 啓蒙 (keimō) / oświecenie / - enlightenment
-Entschlossenheit / determinación / 決意 (ketsui) / determinacja / - determination
-Neugierde / curiosidad / 好奇心 (kōkishin) / ciekawość / - curiosity
-Verantwortungsbewusstsein / responsabilidad / 責任感 (sekininkan) / odpowiedzialność / - responsibility
-Entschlossenheit / resolución / 解決策 (kaiketsu-saku) / zdecydowanie / - resolve
-Flexibilität / flexibilidad / 柔軟性 (jūnansei) / elastyczność / - flexibility
-Begegnung / encuentro / 出会い (deai) / spotkanie / - encounter
-Begierde / anhelo / 憧れ (akogare) / pożądanie / - desire
-Erhabenheit / sublimidad / 崇高さ (sukōsa) / wzniosłość / - sublimity
-Koketterie / coquetería / おしゃべり (oshaberi) / kokieteryjność / - coquetry
-Widerspenstigkeit / terquedad / しぶとさ (shibutosa) / opór / - obstinacy
-Perfidie / perfidia / 不誠実 (fuseijitsu) / perfidia / - perfidy
-Entzücken / deleite / うっとり (uttori) / zachwyt / - delight
-Vorahnung / presentimiento / 予感 (yokan) / przeczucie / - premonition
-Kundgebung / manifestación / 表明 (hyōmei) / manifestacja / - demonstration
-Rastlosigkeit / inquietud / せわしさ (sewashisa) / niespokojność / - restlessness
-Überheblichkeit / arrogancia / 傲慢さ (ōmansa) / wyniosłość / - arrogance
-Wankelmut / volubilidad / 気まぐれ (kimagure) / zmiennomyślność / - fickleness
-Ausgelassenheit / euforia / 興奮 (kōfun) / rozweselenie / - exuberance
-Unbehagen / malestar / 不快感 (fukaikan) / niepokój / - discomfort
-Selbstverleugnung / abnegación / 自己否定 (jiko hitei) / wyrzeczenie / - self-denial
-Seelenverwandtschaft / afinidad espiritual / 心の共鳴 (kokoro no kyōmei) / pokrewieństwo dusz / - soulmate
-Verwirrung / confusión / 混乱 (konran) / zamieszanie / - confusion
-Einsamkeit / soledad / 孤独 (kodoku) / samotność / - loneliness
-Gegensätzlichkeit / contradicción / 相反 (sōhan) / przeciwieństwo / - contradiction
-Überwältigung / abrumación / 圧倒感 (attōkan) / przytłoczenie / - overwhelm
-Schicksalsschlag / golpe del destino / 運命の一撃 (unmei no ichigeki) / cios losu / - blow of fate
-Aufopferung / abnegación / 献身 (kenshin) / poświęcenie / - sacrifice
-Sturm und Drang / tormenta y empuje / 荒れ狂う (arekurū) / burza i napór / - storm and stress
-Zuversicht / confianza / 信頼 (shinrai) / pewność siebie / - confidence
-Fremdartigkeit / extranjeridad / 異質さ (ishitsusa) / obcość / - otherness
-Verzückung / éxtasis / 感嘆 (kantan) / zachwyt / - ecstasy
-Beharrlichkeit / perseverancia / 固執 (koshitsu) / wytrwałość / - persistence
-Unverbindlichkeit / evasividad / 曖昧さ (aimaisa) / niezobowiązującość / - evasiveness
-Vergebung / perdón / 赦し (yurushi) / przebaczenie / - forgiveness
-Tiefsinnigkeit / profundidad / 深さ (fukasa) / głębia / - profundity
-Heimweh / nostalgia / ノスタルジア (nosutarujia) / tęsknota / - homesickness
-Überwachung / vigilancia / 監視 (kanshi) / nadzór / - surveillance
-Zuflucht / refugio / 避難 (hinan) / schronienie / - refuge
-Eitelkeit / vanidad / 虚栄 (kyoei) / próżność / - vanity
-Schadenfreude / alegría malévola / 幸災楽禍 (kōsairakka) / radość z nieszczęścia / - malicious joy
-Ruhestand / jubilación / 引退 (intai) / emerytura / - retirement
-Nervenzusammenbruch / colapso nervioso / 神経衰弱 (shinkei suijaku) / załamanie nerwowe / - nervous breakdown
-Selbstfindung / autodescubrimiento / 自己発見 (jiko hakken) / odnalezienie samego siebie / - self-discovery
-Fernweh / wanderlust / 旅心 (tabi gokoro) / tęsknota za podróżami / - longing for far-off places
-Besessenheit / obsesión / 執着 (shūchaku) / obsesja / - obsession
-Eifersucht / celos / 嫉妬 (shitto) / zazdrość / - jealousy
-Vertrauensbruch / traición de confianza / 信頼の裏切り (shinrai no uragiri) / złamanie zaufania / - betrayal
+Freund / Amigo / 友達 (Tomodachi) / Przyjaciel - Friend
+Essen / Comida / 食べ物 (Tabemono) / Jedzenie - Food
+Kleidung / Ropa / 服 (Fuku) / Ubranie - Clothing
+Musik / Música / 音楽 (Ongaku) / Muzyka - Music
+Stadt / Ciudad / 街 (Machi) / Miasto - City
+Schreiben / Escribir / 書く (Kaku) / Pisać - To write
+Zeit / Tiempo / 時間 (Jikan) / Czas - Time
+Hausaufgaben / Tarea / 宿題 (Shukudai) / Zadanie domowe - Homework
+Telefon / Teléfono / 電話 (Denwa) / Telefon - Telephone
+Reisen / Viajar / 旅行する (Ryokō suru) / Podróżować - To travel
+Fenster / Ventana / 窓 (Mado) / Okno - Window
+Hausarbeit / Tarea doméstica / 家事 (Kaji) / Prace domowe - Housework
+Teller / Plato / 皿 (Sara) / Talerz - Plate
+Gitarre / Guitarra / ギター (Gitā) / Gitara - Guitar
+Museum / Museo / 博物館 (Hakubutsukan) / Muzeum - Museum
+Bruder / Hermano / 兄弟 (Kyōdai) / Brat - Brother
+Kuchen / Pastel / ケーキ (Kēki) / Ciasto - Cake
+Stuhl / Silla / 椅子 (Isu) / Krzesło - Chair
+Film / Película / 映画 (Eiga) / Film - Movie
+Schwester / Hermana / 姉妹 (Shimai) / Siostra - Sister
+Fernseher / Televisor / テレビ (Terebi) / Telewizor - Television
+Frühstück / Desayuno / 朝食 (Chōshoku) / Śniadanie - Breakfast
+Tür / Puerta / ドア (Doa) / Drzwi - Door
+Buchstabe / Letra / 文字 (Moji) / Litera - Letter (alphabet)
+Sprechen / Hablar / 話す (Hanasu) / Mówić - To speak
+Kaffee / Café / コーヒー (Kōhī) / Kawa - Coffee
+Tasse / Taza / カップ (Kappu) / Kubek - Cup
+Wörterbuch / Diccionario / 辞書 (Jisho) / Słownik - Dictionary
+Schule / Escuela / 学校 (Gakkō) / Szkoła - School
+Brille / Gafas / 眼鏡 (Megane) / Okulary - Glasses
+Essen / Comer / 食べる (Taberu) / Jeść - To eat
+Flugzeug / Avión / 飛行機 (Hikōki) / Samolot - Airplane
+Arbeiten / Trabajar / 働く (Hataraku) / Pracować - To work
+Kino / Cine / 映画館 (Eigakan) / Kino - Cinema
+Geschwister / Hermanos / 兄弟姉妹 (Kyōdai shimai) / Rodzeństwo - Siblings
+Mittagessen / Almuerzo / 昼食 (Chūshoku) / Obiad - Lunch
+Freizeit / Tiempo libre / 自由時間 (Jiyū jikan) / Czas wolny - Free time
+Apotheke / Farmacia / 薬局 (Yakkyoku) / Apteka - Pharmacy
+Sommer / Verano / 夏 (Natsu) / Lato - Summer
+Geschäft / Tienda / 店 (Mise) / Sklep - Store
+Eltern / Padres / 両親 (Ryōshin) / Rodzice - Parents
+Abendessen / Cena / 夕食 (Yūshoku) / Kolacja - Dinner
+Bett / Cama / ベッド (Beddo) / Łóżko - Bed
+Spielzeug / Juguete / おもちゃ (Omocha) / Zabawka - Toy
+Universität / Universidad / 大学 (Daigaku) / Uniwersytet - University
+Badezimmer / Baño / トイレ (Toire) / Łazienka - Bathroom
+Brief / Carta / 手紙 (Tegami) / List - Letter (correspondence)
+Winter / Invierno / 冬 (Fuyu) / Zima - Winter
+Wörter / Palabras / 言葉 (Kotoba) / Słowa - Words
+Sport / Deporte / スポーツ (Supōtsu) / Sport - Sport
+Bäckerei / Panadería / パン屋 (Pan'ya) / Piekarnia - Bakery
+Ferien / Vacaciones / 休暇 (Kyūka) / Wakacje - Vacation
+Laptop / Portátil / ノートパソコン (Nōto pasokon) / Laptop - Laptop
+Trinken / Beber / 飲む (Nomu) / Pić - To drink
+Krankenhaus / Hospital / 病院 (Byōin) / Szpital - Hospital
+Herbst / Otoño / 秋 (Aki) / Jesień - Autumn
+Onkel / Tío / おじ (Oji) / Wujek - Uncle
+Fernsehen / Ver televisión / テレビを見る (Terebi o miru) / Oglądać telewizję - To watch television
+Obst / Frutas / 果物 (Kudamono) / Owoce - Fruit
+Park / Parque / 公園 (Kōen) / Park - Park
+Cousin / Primo / いとこ (Itoko) / Kuzyn - Cousin
+Schlafen / Dormir / 寝る (Neru) / Spać - To sleep
+Restaurant / Restaurante / レストラン (Resutoran) / Restauracja - Restaurant
+Lehrer / Profesor / 先生 (Sensei) / Nauczyciel - Teacher
+Morgen / Mañana / 朝 (Asa) / Rano - Morning
+Tablet / Tableta / タブレット (Taburetto) / Tablet - Tablet
+Lesen / Leer / 読む (Yomu) / Czytać - To read
+Theater / Teatro / 劇場 (Gekijō) / Teatr - Theater
+Oma / Abuela / おばあさん (Obaasan) / Babcia - Grandmother
+Geburtstag / Cumpleaños / 誕生日 (Tanjōbi) / Urodziny - Birthday
+Zoo / Zoológico / 動物園 (Dōbutsuen) / Zoo - Zoo
+Opa / Abuelo / おじいさん (Ojiisan) / Dziadek - Grandfather
+Fahrrad / Bicicleta / 自転車 (Jitensha) / Rower - Bicycle
+Singen / Cantar / 歌う (Utau) / Śpiewać - To sing
+Markt / Mercado / 市場 (Ichiba) / Rynek - Market
+Familie / Familia / 家族 (Kazoku) / Rodzina - Family
+Gebäude / Edificio / 建物 (Tatemono) / Budynek - Building
+Tante / Tía / おば (Oba) / Ciocia - Aunt
+Nachmittag / Tarde / 午後 (Gogo) / Popołudnie - Afternoon
+Schwimmen / Nadar / 泳ぐ (Oyogu) / Pływać - To swim
+Supermarkt / Supermercado / スーパーマーケット (Sūpāmāketto) / Supermarket - Supermarket
+Cousine / Prima / いとこ (Itoko) / Kuzynka - Cousin (female)
+Kultur / Cultura / 文化 (Bunka) / Kultura - Culture
+Fahrt / Viaje / 旅 (Tabi) / Podróż - Trip
+Computer / Ordenador / コンピューター (Konpyūtā) / Komputer - Computer
+Fußball / Fútbol / サッカー (Sakkā) / Piłka nożna - Football
+Sprache / Idioma / 言語 (Gengo) / Język - Language
+Bücher / Libros / 本 (Hon) / Książki - Books
+Feiertag / Día festivo / 祝日 (Shukujitsu) / Święto - Holiday
+Fotografieren / Fotografiar / 写真を撮る (Shashin o toru) / Fotografować - To photograph
+Hund / Perro / 犬 (Inu) / Pies - Dog
+Katze / Gato / 猫 (Neko) / Kot - Cat
+Auto / Coche / 車 (Kuruma) / Samochód - Car
+Blume / Flor / 花 (Hana) / Kwiat - Flower
+Wasser / Agua / 水 (Mizu) / Woda - Water
+Freundin / Amiga / 友達 (Tomodachi) / Przyjaciółka - Friend (female)
+Haus / Casa / 家 (Ie) / Dom - House
+Apfel / Manzana / 林檎 (Ringo) / Jabłko - Apple
+Tisch / Mesa / テーブル (Tēburu) / Stół - Table
+Buch / Libro / 本 (Hon) / Książka - Book
+Stift / Bolígrafo / ペン (Pen) / Długopis - Pen
+Freund / Amigo / 友達 (Tomodachi) / Przyjaciel - Friend (male)
+Uhr / Reloj / 時計 (Tokei) / Zegar - Clock
+Musikinstrument / Instrumento musical / 楽器 (Gakki) / Instrument muzyczny - Musical instrument
+Lernen / Aprender / 学ぶ (Manabu) / Uczyć się - To learn
+Spielen / Jugar / 遊ぶ (Asobu) / Grać - To play
+Laufen / Correr / 走る (Hashiru) / Biegać - To run
+Gehen / Ir / 行く (Iku) / Iść - To go
+Sehen / Ver / 見る (Miru) / Widzieć - To see
+Hören / Escuchar / 聞く (Kiku) / Słuchać - To listen
+Kaufen / Comprar / 買う (Kau) / Kupować - To buy
+Verkaufen / Vender / 売る (Uru) / Sprzedawać - To sell
+Leben / Vivir / 生きる (Ikiru) / Żyć - To live
+Studieren / Estudiar / 勉強する (Benkyō suru) / Studiować - To study
+Besuchen / Visitar / 訪問する (Hōmon suru) / Odwiedzać - To visit
+Kochen / Cocinar / 料理する (Ryōri suru) / Gotować - To cook
+Tanzen / Bailar / 踊る (Odoru) / Tańczyć - To dance
+Malen / Pintar / 描く (Kaku) / Malować - To paint
+Höflich / Cortés / 礼儀正しい (Reigi tadashii) / Grzeczny - Polite
+Schnell / Rápido / 速い (Hayai) / Szybki - Fast
+Langsam / Lento / 遅い (Osoi) / Wolny - Slow
+Groß / Grande / 大きい (Ōkii) / Duży - Big
+Klein / Pequeño / 小さい (Chīsai) / Mały - Small
+Neu / Nuevo / 新しい (Atarashii) / Nowy - New
+Alt / Viejo / 古い (Furui) / Stary - Old
+Gut / Bueno / 良い (Yoi) / Dobry - Good
+Schlecht / Malo / 悪い (Warui) / Zły - Bad
+Schön / Bonito / 綺麗な (Kirei na) / Piękny - Beautiful
+Hässlich / Feo / 醜い (Minikui) / Brzydki - Ugly
+Glücklich / Feliz / 幸せな (Shiawase na) / Szczęśliwy - Happy
+Traurig / Triste / 悲しい (Kanashii) / Smutny - Sad
+Müde / Cansado / 疲れた (Tsukareta) / Zmęczony - Tired
+Energisch / Energético / エネルギッシュな (Enerugisshu na) / Energiczny - Energetic
+Laut / Ruidoso / うるさい (Urusai) / Głośny - Loud
+Leise / Silencioso / 静かな (Shizuka na) / Cichy - Quiet
+Einfach / Fácil / 簡単な (Kantan na) / Łatwy - Easy
+Schwer / Difícil / 難しい (Muzukashii) / Trudny - Difficult
+Richtig / Correcto / 正しい (Tadashii) / Prawidłowy - Correct
+Falsch / Incorrecto / 間違った (Machigatta) / Niepoprawny - Wrong
+Interessant / Interesante / 面白い (Omoshiroi) / Interesujący - Interesting
+Langweilig / Aburrido / つまらない (Tsumaranai) / Nudny - Boring
+Freundlich / Amable / 優しい (Yasashii) / Przyjazny - Friendly
+Unfreundlich / Desagradable / 不愉快な (Fuyukai na) / Nieprzyjazny - Unfriendly
+Helfen / Ayudar / 助ける (Tasukeru) / Pomagać - To help
+Fragen / Preguntar / 質問する (Shitsumon suru) / Pytać - To ask
+Antworten / Responder / 答える (Kotaeru) / Odpowiadać - To answer
+Verstehen / Comprender / 理解する (Rikai suru) / Rozumieć - To understand
+Wissen / Saber / 知っている (Shitte iru) / Wiedzieć - To know
+Vergessen / Olvidar / 忘れる (Wasureru) / Zapominać - To forget
+Erinnern / Recordar / 覚えている (Oboete iru) / Przypominać - To remember
+Anfangen / Comenzar / 始める (Hajimeru) / Zaczynać - To start
+Beenden / Terminar / 終える (Oeru) / Kończyć - To finish
+Verlieren / Perder / 失う (Ushinau) / Tracić - To lose
+Gewinnen / Ganar / 勝つ (Katsu) / Wygrywać - To win
+Öffnen / Abrir / 開ける (Akeru) / Otwierać - To open
+Schließen / Cerrar / 閉める (Shimeru) / Zamykać - To close
+Finden / Encontrar / 見つける (Mitsukeru) / Znajdować - To find
+Verstecken / Esconder / 隠す (Kakusu) / Ukrywać - To hide
+Träumen / Soñar / 夢を見る (Yume o miru) / Śnić - To dream
+Lachen / Reír / 笑う (Warau) / Śmiać się - To laugh
+Weinen / Llorar / 泣く (Naku) / Płakać - To cry
+Freude / alegría / 喜び (yorokobi) / radość - joy
+Buchstaben / letras / 文字 (moji) / litery - letters
+Hallo / hola / こんにちは (konnichiwa) / cześć - hello
+Rot / rojo / あか (aka) / czerwony - red
+Blau / azul / あお (ao) / niebieski - blue
+Gelb / amarillo / きいろ (kiiro) / żółty - yellow
+Danke / gracias / ありがとう (arigatō) / dziękuję - thank you
+Bitte / por favor / おねがいします (onegaishimasu) / proszę - please
+Entschuldigung / perdón / ごめんなさい (gomen nasai) / przepraszam - excuse me
+Ja / Sí / はい (Hai) / Tak - Yes
+Nein / No / いいえ (Iie) / Nie - No
+Farbe / Color / 色 (Iro) / Kolor - Color
+Reisen / Viajar / 旅行 (Ryokō) / Podróżować - Travel
+Glück / Felicidad / 幸せ (Shiawase) / Szczęście - Happiness
+Erfolg / éxito / 成功 (seikō) / sukces - success
+Bedauern / lamentar / 残念 (zannen) / żal - regret
+Vielseitig / versátil / 多才 (tasai) / wszechstronny - versatile
+Überwinden / superar / 克服する (kokufuku suru) / pokonać - overcome
+Ausdauer / perseverancia / 忍耐 (nintai) / wytrzymałość - endurance
+Bereicherung / enriquecimiento / 充実 (jūjitsu) / wzbogacenie - enrichment
+Hingabe / devoción / 献身 (kenshin) / oddanie - dedication
+Empathie / empatía / 共感 (kyōkan) / empatia - empathy
+Muttersprache / lengua materna / 母国語 (bokokugo) / język ojczysty - mother tongue
+Unverwechselbar / inconfundible / 独特な (dokutoku na) / niepowtarzalny - unique
+Herausforderung / desafío / 挑戦 (chōsen) / wyzwanie - challenge
+Umfangreich / extenso / 広範囲 (kōhani) / obszerny - extensive
+Selbstvertrauen / confianza en sí mismo / 自信 (jishin) / pewność siebie - self-confidence
+Konzentration / concentración / 集中 (shūchū) / koncentracja - concentration
+Raffiniert / sofisticado / 精巧 (seikō) / wyrafinowany - sophisticated
+Nachdenklich / reflexivo / 深思熟慮 (shinshi jukuryo) / refleksyjny - thoughtful
+Aufgeschlossenheit / apertura / 開放感 (kaihō-kan) / otwartość - open-mindedness
+Leidenschaft / pasión / 情熱 (jōnetsu) / pasja - passion
+Empfindlichkeit / sensibilidad / 敏感さ (binkan-sa) / wrażliwość - sensitivity
+Kreativität / creatividad / 創造性 (sōzōsei) / kreatywność - creativity
+Widerstandsfähig / resistente / 強靭 (kyōjin) / odporny - resilient
+Empfindsamkeit / sensibilidad / 繊細さ (sensai-sa) / delikatność - delicacy
+Strebsamkeit / diligencia / 勤勉さ (kinben-sa) / pilność - diligence
+Erfindungsreich / ingenioso / 創意 (sōi) / pomysłowy - resourceful
+Begeisterung / entusiasmo / 熱意 (netsui) / entuzjazm - enthusiasm
+Zuverlässigkeit / confiabilidad / 信頼性 (shinraisei) / niezawodność - reliability
+Gelassenheit / tranquilidad / 冷静さ (reisei-sa) / opanowanie - serenity
+Ehrgeizig / ambicioso / 野心的 (yashin-teki) / ambitny - ambitious
+Beständigkeit / consistencia / 着実性 (chakujitsusei) / trwałość - perseverance
+Eigenständig / autónomo / 独立した (dokuritsu shita) / niezależny - independent
+Geduld / paciencia / 忍耐力 (nintai-ryoku) / cierpliwość - patience
+Wertschätzung / aprecio / 高評価 (kōhyōka) / docenienie - appreciation
+Erleuchtung / iluminación / 啓蒙 (keimō) / oświecenie - enlightenment
+Entschlossenheit / determinación / 決意 (ketsui) / determinacja - determination
+Neugierde / curiosidad / 好奇心 (kōkishin) / ciekawość - curiosity
+Verantwortungsbewusstsein / responsabilidad / 責任感 (sekininkan) / odpowiedzialność - responsibility
+Entschlossenheit / resolución / 解決策 (kaiketsu-saku) / zdecydowanie - resolve
+Flexibilität / flexibilidad / 柔軟性 (jūnansei) / elastyczność - flexibility
+Begegnung / encuentro / 出会い (deai) / spotkanie - encounter
+Begierde / anhelo / 憧れ (akogare) / pożądanie - desire
+Erhabenheit / sublimidad / 崇高さ (sukōsa) / wzniosłość - sublimity
+Koketterie / coquetería / おしゃべり (oshaberi) / kokieteryjność - coquetry
+Widerspenstigkeit / terquedad / しぶとさ (shibutosa) / opór - obstinacy
+Perfidie / perfidia / 不誠実 (fuseijitsu) / perfidia - perfidy
+Entzücken / deleite / うっとり (uttori) / zachwyt - delight
+Vorahnung / presentimiento / 予感 (yokan) / przeczucie - premonition
+Kundgebung / manifestación / 表明 (hyōmei) / manifestacja - demonstration
+Rastlosigkeit / inquietud / せわしさ (sewashisa) / niespokojność - restlessness
+Überheblichkeit / arrogancia / 傲慢さ (ōmansa) / wyniosłość - arrogance
+Wankelmut / volubilidad / 気まぐれ (kimagure) / zmiennomyślność - fickleness
+Ausgelassenheit / euforia / 興奮 (kōfun) / rozweselenie - exuberance
+Unbehagen / malestar / 不快感 (fukaikan) / niepokój - discomfort
+Selbstverleugnung / abnegación / 自己否定 (jiko hitei) / wyrzeczenie - self-denial
+Seelenverwandtschaft / afinidad espiritual / 心の共鳴 (kokoro no kyōmei) / pokrewieństwo dusz - soulmate
+Verwirrung / confusión / 混乱 (konran) / zamieszanie - confusion
+Einsamkeit / soledad / 孤独 (kodoku) / samotność - loneliness
+Gegensätzlichkeit / contradicción / 相反 (sōhan) / przeciwieństwo - contradiction
+Überwältigung / abrumación / 圧倒感 (attōkan) / przytłoczenie - overwhelm
+Schicksalsschlag / golpe del destino / 運命の一撃 (unmei no ichigeki) / cios losu - blow of fate
+Aufopferung / abnegación / 献身 (kenshin) / poświęcenie - sacrifice
+Sturm und Drang / tormenta y empuje / 荒れ狂う (arekurū) / burza i napór - storm and stress
+Zuversicht / confianza / 信頼 (shinrai) / pewność siebie - confidence
+Fremdartigkeit / extranjeridad / 異質さ (ishitsusa) / obcość - otherness
+Verzückung / éxtasis / 感嘆 (kantan) / zachwyt - ecstasy
+Beharrlichkeit / perseverancia / 固執 (koshitsu) / wytrwałość - persistence
+Unverbindlichkeit / evasividad / 曖昧さ (aimaisa) / niezobowiązującość - evasiveness
+Vergebung / perdón / 赦し (yurushi) / przebaczenie - forgiveness
+Tiefsinnigkeit / profundidad / 深さ (fukasa) / głębia - profundity
+Heimweh / nostalgia / ノスタルジア (nosutarujia) / tęsknota - homesickness
+Überwachung / vigilancia / 監視 (kanshi) / nadzór - surveillance
+Zuflucht / refugio / 避難 (hinan) / schronienie - refuge
+Eitelkeit / vanidad / 虚栄 (kyoei) / próżność - vanity
+Schadenfreude / alegría malévola / 幸災楽禍 (kōsairakka) / radość z nieszczęścia - malicious joy
+Ruhestand / jubilación / 引退 (intai) / emerytura - retirement
+Nervenzusammenbruch / colapso nervioso / 神経衰弱 (shinkei suijaku) / załamanie nerwowe - nervous breakdown
+Selbstfindung / autodescubrimiento / 自己発見 (jiko hakken) / odnalezienie samego siebie - self-discovery
+Fernweh / wanderlust / 旅心 (tabi gokoro) / tęsknota za podróżami - longing for far-off places
+Besessenheit / obsesión / 執着 (shūchaku) / obsesja - obsession
+Eifersucht / celos / 嫉妬 (shitto) / zazdrość - jealousy
+Vertrauensbruch / traición de confianza / 信頼の裏切り (shinrai no uragiri) / złamanie zaufania - betrayal
+Liebe / amor / 愛 (ai) / miłość / - love
+Freiheit / libertad / 自由 (jiyū) / wolność / - freedom
+Vertrauen / confianza / 信頼 (shinrai) / zaufanie / - trust
+Abenteuer / aventura / 冒険 (bōken) / przygoda / - adventure
+Wissen / conocimiento / 知識 (chishiki) / wiedza / - knowledge
+Hoffnung / esperanza / 希望 (kibō) / nadzieja / - hope
+Zufriedenheit / satisfacción / 満足 (manzoku) / satysfakcja / - satisfaction
+Frieden / paz / 平和 (heiwa) / pokój / - peace
+Mut / valentía / 勇気 (yūki) / odwaga / - courage
+Wachstum / crecimiento / 成長 (seichō) / wzrost / - growth
+Zusammenarbeit / cooperación / 協力 (kyōryoku) / współpraca / - collaboration
+Wahrheit / verdad / 真実 (shinjitsu) / prawda / - truth
+Dankbarkeit / gratitud / 感謝 (kansha) / wdzięczność / - gratitude
+Harmonie / armonía / 調和 (chōwa) / harmonia / - harmony
+Fortschritt / progreso / 進歩 (shinpo) / postęp / - progress
+Akzeptanz / aceptación / 受け入れ (ukeire) / akceptacja / - acceptance
+Weisheit / sabiduría / 知恵 (chie) / mądrość / - wisdom
+Geliebte / amada / 愛された (aisareta) / ukochana / - beloved
+Sicherheit / seguridad / 安全 (anzen) / bezpieczeństwo / - security
+Geborgenheit / protección / 安心感 (anshin-kan) / bezpieczeństwo / - comfort
+Integrität / integridad / 正直 (shōjiki) / uczciwość / - integrity
+Wohlstand / prosperidad / 繁栄 (han'ei) / dobrobyt / - prosperity
+Glückseligkeit / dicha / 幸福 (kōfuku) / błogość / - bliss
+Erfahrung / experiencia / 経験 (keiken) / doświadczenie / - experience
+Erneuerung / renovación / 更新 (kōshin) / odnowienie / - renewal
+Achtsamkeit / mindfulness / 念 (nen) / uważność / - mindfulness
+Inspiration / inspiración / インスピレーション (insupirēshon) / inspiracja / - inspiration
+Barmherzigkeit / misericordia / 慈悲 (jihi) / miłosierdzie / - mercy
+Verständnis / comprensión / 理解 (rikai) / zrozumienie / - understanding
+Hingabe / devoción / 奉仕 (hōshi) / oddanie / - devotion
+Gerechtigkeit / justicia / 正義 (seigi) / sprawiedliwość / - justice
+Selbstliebe / amor propio / 自愛 (jiai) / miłość własna / - self-love
+Disziplin / disciplina / 規律 (kiritsu) / dyscyplina / - discipline
+Fülle / plenitud / 豊かさ (yutakasa) / obfitość / - abundance
+Einzigartigkeit / singularidad / 独特性 (dokutokusei) / wyjątkowość / - uniqueness
+Selbstentfaltung / autorrealización / 自己実現 (jiko jitsugen) / samorealizacja / - self-fulfillment
+Überwindung / superación / 克服 (kokufuku) / pokonanie / - overcoming
+Gelassenheit / calma / 穏やかさ (odayakasa) / spokój / - composure
+Ehrlichkeit / honestidad / 正直 (shōjiki) / uczciwość / - honesty
+Selbsterkenntnis / autoconocimiento / 自己認識 (jiko ninshiki) / samowiedza / - self-awareness
+Gemeinschaft / comunidad / 共同体 (kyōdōtai) / społeczność / - community
+Großzügigkeit / generosidad / 寛容 (kanyō) / hojność / - generosity
+Leichtigkeit / ligereza / 軽さ (karusa) / lekkość / - lightness
+Selbstbewusstsein / autoconfianza / 自信 (jishin) / pewność siebie / - self-assurance
+Resilienz / resiliencia / 回復力 (kaifukuryoku) / odporność / - resilience
+Einfachheit / simplicidad / 簡単 (kantan) / prostota / - simplicity
+Selbstakzeptanz / autoaceptación / 自己受容 (jiko juyō) / akceptacja siebie / - self-acceptance
+Optimismus / optimismo / 楽観 (rakkan) / optymizm / - optimism
+Aufrichtigkeit / sinceridad / 正直 (shōjiki) / szczerość / - sincerity
+Selbstreflexion / autorreflexión / 自己反省 (jiko hansei) / samorefleksja / - self-reflection
+Innere Stärke / fuerza interior / 内なる力 (uchinaru chikara) / siła wewnętrzna / - inner strength
+Selbstentwicklung / desarrollo personal / 自己成長 (jiko seichō) / rozwój osobisty / - self-development
+Authentizität / autenticidad / 本物 (honmono) / autentyczność / - authenticity
+Verbundenheit / conexión / 繋がり (tsunagari) / więź / - connection
+Lebensfreude / alegría de vivir / 生きる喜び (ikiru yorokobi) / radość życia / - joy of living
+Selbstbestimmung / autodeterminación / 自己決定 (jiko kettei) / samostanowienie / - self-determination
